@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c53c03b-139a-4a3c-8826-c3ea78a08fd2" name="Default Changelist" comment="AXW" />
+    <list default="true" id="3c53c03b-139a-4a3c-8826-c3ea78a08fd2" name="Default Changelist" comment="AXW">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
