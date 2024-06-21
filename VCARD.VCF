@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Benjamin Gath
+N:Gath;Benjamin;;;
+NICKNAME:Benji,Ben
+BDAY:20030203
+GENDER:M
+KIND:individual
+EMAIL;Type=work:contact@benjamingath.com
+TEL;TYPE=work:(+44)7806 746 433
+URL:www.benjamingath.com
+LOGO;MEDIATYPE=image/jpg:https://www.benjamingath.com/wp-content/uploads/2024/04/1000012379-800x800.jpg
+PHOTO;MEDIATYPE=image/jpg:https://www.benjamingath.com/wp-content/uploads/2024/04/1000012379-800x800.jpg
+END:VCARD
